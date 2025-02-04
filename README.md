@@ -2,7 +2,7 @@ example docs for project in testing:
 
 First install python socketIO
 ```
-pip install python-socketio requests
+pip install python-socketio requests websocket-client
 ```
 then you can use the following code
 ```python
