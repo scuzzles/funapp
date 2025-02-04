@@ -2,7 +2,7 @@ example docs for project in testing:
 
 First install python socketIO
 ```
-pip install python-socketio
+pip install python-socketio requests
 ```
 then you can use the following code
 ```python
